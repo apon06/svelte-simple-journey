@@ -3,7 +3,7 @@
     let color = "black";
     const add = () => {
         count = count++;
-        color = "blue";
+        color = "green";
     };
 </script>
 
